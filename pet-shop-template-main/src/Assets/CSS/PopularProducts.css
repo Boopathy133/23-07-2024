@@ -1,0 +1,22 @@
+#title {
+    font-size: 36px;
+}
+
+#products {
+    width: 95%; 
+    background-color: 'red';
+}
+
+#popular-products-container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* mobile responsive design */
+
+@media (max-width: 900px) {
+    #products {
+        width: 100%; 
+        background-color: 'red';
+    }
+}

@@ -1,0 +1,14 @@
+.carosel-image {
+    height: 85vh;
+}
+
+
+
+
+/* mobile responsive design */
+
+@media (max-width: 900px) {
+    .carosel-image {
+        height: 30vh;
+    }
+}
